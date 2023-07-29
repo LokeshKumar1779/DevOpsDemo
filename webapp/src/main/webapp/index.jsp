@@ -7,3 +7,4 @@
 <h2> This line4 added by lokesh</h2>
 <h2> This line5 added by lokesh</h2>
 <h2> This line6 added by lokesh for triggering the build in aws jenkins</h2>
+<h2> This line7 added by lokesh to check artifact deployed in deployment server via aws jenkins</h2>
